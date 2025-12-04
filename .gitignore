@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+backend/venv/
+backend/.venv/
+backend/__pycache__/
+
+# Environment variables
+.env
+backend/.env
+
+# Build outputs
+dist/
+build/
+
+# IDE settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Chat History (Local)
+backend/chat_history.json

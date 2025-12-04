@@ -1,0 +1,15 @@
+I want to take the base code for a time series AI agent from a github repository and build a react based chatbot user interface. You can help?
+>>
+
+1. Github Repository URL = https://github.com/sodafoundation-ai/ts-ai-agent
+2. Make a simple GUI with provisions of Chat Query, Responses, Show a set of FAQ, Chat Session (user can add/edit the session names), provision to add a company logo, contact link, Chat bot name, description, Chatbot logo
+3. Want to make it as a webapp and host locally or on a server
+4. Bring up the GUI as a separate module which can be easily changed or replaced
+5. Make the GUI with shades of Blue and White
+6. The responses can be copied or downloaded
+7. Complete chat session history can be copied or exported
+8. Chat history is maintained
+9. Follow up query and contexts are support
+
+>>
+
